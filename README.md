@@ -55,6 +55,18 @@ This project is a professional Power BI dashboard built using **real-time stock 
 
 ---
 
+
+### 🔍 Insights
+
+- **Apple stocks show stronger performance compared to Google** in several key metrics.
+- **Apple's maximum closing price** is higher than Google's, suggesting higher peak valuation and possibly stronger investor sentiment.
+- **Minimum closing price and average opening price** of Apple stocks are also higher, indicating consistent value retention and strong demand at market open.
+- The **sum of the 7-day moving average (7MA)** trends upward with the closing price, reflecting a **sustained positive trend** in Apple’s and Google's stock performance.
+- In **2025**, we observe **decreasing volume with rising prices** for Google and Apple individually, which may signal reduced trading activity — potentially due to long-term holding or decreased speculative interest.
+- **Volume fluctuations in 2024** may represent **market uncertainty or volatility**, with inconsistent trading behavior during that period.
+
+---
+
 ## ⚙️ How to Refresh the Data
 
 1. Open the Power BI Dashboard.
